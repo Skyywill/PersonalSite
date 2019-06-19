@@ -1,0 +1,80 @@
+
+a{
+  color: #A239CA;
+}
+
+a:hover {
+  /*background-color: white; */
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #4717F6;
+border-width: 16px;
+width: 8%;
+}
+
+body {
+Background-color: #0E0B16;
+}
+
+#headerPictureLogo{
+  height: 400px;
+  width: 1000px;
+}
+
+#textColor{
+  color: #E7DFDD;
+  font-size: 15px;
+}
+#textColorBlue{
+  color: #4717F6;
+}
+#largeMaintext{
+  font-size: 35px;
+  color: #A239CA;
+}
+#textMusicTile{
+  color: #4717F6;
+  font-size: 18px;
+  padding-left: 50px;
+  font-weight: bold;
+}
+
+
+
+#musicBar{
+
+  position: relative;
+  top: 120px;
+  left: 380px;
+  color: white;
+}
+
+#navigationBar{
+
+  bottom: 70px;
+  right: 10px;
+  position: relative;
+  font-size: 40px;
+  font-weight:bold;
+  background-color: inherit;
+  width: 1200px;
+  height: 40px;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+
+#navigationBarSection{
+  padding-left: 0.4em;
+}
